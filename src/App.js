@@ -7,12 +7,7 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      <Navbar />
-      <div className="container">
-        <Leftbar />
-        <Update />
-        <Rightbar />
-      </div>
+     
     </>
   );
 };
